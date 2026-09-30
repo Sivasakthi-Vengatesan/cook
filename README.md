@@ -136,3 +136,9 @@ cook-content-pack/
 
 **ONE VIDEO. LET IT COOK.**  
 Stop editing manually. Drop a video. COOK finds the gold.
+
+---
+
+## 📄 License & Contributing
+
+Distributed under the MIT License. Contributions, issues, and feature requests are welcome!
